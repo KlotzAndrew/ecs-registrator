@@ -3,7 +3,7 @@
 Boots registrator with the private ip of the host running registrator
 
 ```bash
-klotzandrew/ecs-registrator $consul_address
+klotzandrew/ecs-registrator:v7a $consul_address
 ```
 
 There is another one you could use (https://github.com/Dwolla/ecs-registrator),
